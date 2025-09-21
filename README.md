@@ -2,7 +2,7 @@
 
 <h2 align="center">💻 About Me 💻</h2>
 <div>  
-  <dl><dd><dl><dd><dl><dd><dl><dd>I'm 20 years old with 7 years of programming experience and 3 years of mentoring experience</dd></dl></dd></dl></dd></dl></dd></dl>
+  <dl><dd><dl><dd><dl><dd><dl><dd>I'm 21 years old with 8 years of programming experience and 4 years of mentoring experience</dd></dl></dd></dl></dd></dl></dd></dl>
    
   <dl><dd><dl><dd><dl><dd><dl><dd>I have a strong passion for reverse engineering and ubiquitous computing</dd></dl></dd></dl></dd></dl></dd></dl>
   
