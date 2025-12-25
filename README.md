@@ -1,6 +1,4 @@
-<!-- CONTACT -->
-
-<h2 align="center"> 📱 Contact 📱 </h2>
+<h2 align="center">Contact</h2>
 <div align="center"> 
   Discord: thehuglet <br>
   Email: <a href="mailto: amy.opas@proton.me" target="_blank">amy.opas@proton.me</a> <br>
