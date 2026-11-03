@@ -1,8 +1,6 @@
-I'm a systems programmer, procedural VFX artist and game developer.
+Hi! I'm **Amy**, known as **thehuglet** online. I like to write software and systems from scratch, sometimes unconventional software.
 
-Check out some of my work below!
-- [germterm](https://github.com/thehuglet/germterm) - high performance terminal rendering library
-- [term-slot-rs](https://github.com/thehuglet/term-slots-rs) - poker & slots terminal game
+Some of my projects are close source. You can find them on my website at https://thehuglet.com.
 
 <div style="text-align: left;">
   <b>Discord</b>: <code>thehuglet</code><br>
