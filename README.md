@@ -1,4 +1,4 @@
-Hi! I'm **Amy**, known as **thehuglet** online. I like to write software and systems from scratch, sometimes unconventional software.
+Hi! I'm **Amy**, known as **thehuglet** online. I like to write software from scratch, sometimes unconventional software.
 
 Some of my projects are close source. You can find them on my website at https://thehuglet.com.
 
